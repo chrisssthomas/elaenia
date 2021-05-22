@@ -1,0 +1,16 @@
+{
+    "name": "chris/elaenia",
+    "description": "mini framework for fun",
+    "type": "library",
+    "require": {
+        "vlucas/phpdotenv": "5.3.x-dev"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Christopher Thomas",
+            "email": "chrissssthomas@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
